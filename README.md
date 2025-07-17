@@ -34,6 +34,7 @@ A minimal backend service in .NET 8 / C# to manage configurable workflow state m
 3. Run the app:
 
    ```bash
+   dotnet build
    dotnet run
    ```
 
