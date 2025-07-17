@@ -112,8 +112,6 @@ The app generates random GUIDs like:
 82921a6b-b0b2-48e5-ae30-6366cf971fa2
 ```
 
-These are safe to share and can be used directly in testing.
-
 ---
 
 ## Notes
